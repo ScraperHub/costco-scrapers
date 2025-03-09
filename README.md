@@ -45,12 +45,11 @@ python --version
 Next, install the required dependencies:
 
 ```bash
-pip install crawlbase beautifulsoup4 pandas
+pip install crawlbase beautifulsoup4
 ```
 
 - **Crawlbase** – Handles JavaScript rendering and bypasses bot protections.
 - **BeautifulSoup** – Parses and extracts structured data from HTML.
-- **Pandas** – Stores and processes extracted data efficiently.
 
 ## Running the Scrapers
 
