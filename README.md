@@ -60,7 +60,7 @@ pip install crawlbase beautifulsoup4
 
 ## Update the Scraper with Your Token
 
-Replace "`YOUR_CRAWLBASE_API_KEY`" in the script with your Crawlbase JS Token.
+Replace "`CRAWLBASE_JS_TOKEN`" in the script with your Crawlbase JS Token.
 
 Run the Scraper
 
